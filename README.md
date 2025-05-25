@@ -3,6 +3,8 @@
 这是我的抖音
 </a>
 
+当同学们在背《教育学原理》时，我在啃《Python 从入门到放弃》；别人在写教案，我在改 bug，我是一名师范生，可我偏偏迷上了编程，如果时间可以重来，我想成为一名码农
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
